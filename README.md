@@ -1,4 +1,4 @@
-# kindle_clock
+# flutter-kindle-clock
 
 A new Flutter project.
 
